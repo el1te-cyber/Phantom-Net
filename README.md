@@ -14,3 +14,5 @@ The source code has the server running as localhost.
 ![image](https://github.com/user-attachments/assets/0f49bbdd-6b01-4be4-a9bc-0aa112fb4cce)
 ![image](https://github.com/user-attachments/assets/822d5ed2-6aea-474e-8517-cb58a41215cf)
 ![image](https://github.com/user-attachments/assets/ecaf34d8-6291-4aa7-a3fe-2f58279ee3b0)
+# Plans:
+Add logic to select clients instead of sending commands to all clients. Add info grabber for chrome, edge, and all popular browsers. Add screenshot, webcam photo, and hvnc of chrome. Coming tommorow will be general info for each connected client in a list view. Info like ip, windows version, user name etc.
